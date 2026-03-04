@@ -23,7 +23,6 @@
         <li>Обучение на <strong>Яндекс Практикуме</strong> — Fullstack-разработчик</li>
         <li>Стремлюсь к профессиональному росту как Fullstack разработчик (Java + современный фронтенд)</li>
       </ul>
-      
       <h3>⚙️ Инженерное прошлое</h3>
       <ul>
         <li>Работал инженером по электронным системам в авиастроении</li>
@@ -40,7 +39,7 @@
 
 ---
 
-## 💼 Опыт работы — 5+ лет
+## 💼 Опыт работы инженером — 5+ лет
 
 ### 🛩️ Инженер-электронщик | ГК ЭМИС
 *2025*
@@ -91,14 +90,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+</p>
+
+### ⚙️ Инженерное прошлое и софт
+
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="Keil uVision / Embedded C" alt="Keil" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="50" height="50"/>
 </p>
 
-### Мое инженерное прошлое Инженерный софт
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="50" height="50"/>&nbsp;
-  <span>Altium Designer, КОМПАС-3D, SolidWorks, Mathcad, Keil uVision</span>
-</p>
+*   **САПР и проектирование:** Altium Designer, КОМПАС-3D, SolidWorks
+*   **Расчёты и моделирование:** MATLAB, Mathcad
+*   **Embedded разработка:** Keil uVision, Qt
 
 ---
 
@@ -133,17 +137,7 @@
 - 🎓 **Специалитет** — ЮУрГУ, Системы управления летательными аппаратами (2015–2020)
 - 📖 **Курсы** — Яндекс Практикум, Фулстек-разработчик (2025-2027)
 - 📖 **Повышение квалификации** — УрФУ, Радиосистемы и радиолокация (2022)
-
-И многое другое
----
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KazantsevKirill&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazantsevKirill&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</div>
-
+- И многое другое
 ---
 
 ## 📫 Связаться со мной
@@ -154,8 +148,4 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KazantsevKirill&style=flat-square&color=blue" alt="Profile views"/>
-</div>
